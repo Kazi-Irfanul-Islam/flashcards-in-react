@@ -67,7 +67,7 @@
 
 ```bash
 # 📥 Clone the magic repository
-git clone https://github.com/yourusername/react-flashcards.git
+git clone https://github.com/Kazi-Irfanul-Islam/react-flashcards.git
 
 # 🏃‍♂️ Navigate to your new React playground
 cd react-flashcards
